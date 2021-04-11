@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NuggetsMemoryGame/static/css/main.208e094f.chunk.css",
+    "main.js": "/NuggetsMemoryGame/static/js/main.283def4e.chunk.js",
+    "main.js.map": "/NuggetsMemoryGame/static/js/main.283def4e.chunk.js.map",
+    "runtime-main.js": "/NuggetsMemoryGame/static/js/runtime-main.ac709b4f.js",
+    "runtime-main.js.map": "/NuggetsMemoryGame/static/js/runtime-main.ac709b4f.js.map",
+    "static/js/2.60dc2ce3.chunk.js": "/NuggetsMemoryGame/static/js/2.60dc2ce3.chunk.js",
+    "static/js/2.60dc2ce3.chunk.js.map": "/NuggetsMemoryGame/static/js/2.60dc2ce3.chunk.js.map",
+    "index.html": "/NuggetsMemoryGame/index.html",
+    "static/css/main.208e094f.chunk.css.map": "/NuggetsMemoryGame/static/css/main.208e094f.chunk.css.map",
+    "static/js/2.60dc2ce3.chunk.js.LICENSE.txt": "/NuggetsMemoryGame/static/js/2.60dc2ce3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac709b4f.js",
+    "static/js/2.60dc2ce3.chunk.js",
+    "static/css/main.208e094f.chunk.css",
+    "static/js/main.283def4e.chunk.js"
+  ]
+}
