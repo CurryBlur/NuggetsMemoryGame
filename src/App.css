@@ -8,7 +8,7 @@
 h1 {
   letter-spacing: .05em;
   padding: 10px;
-  font-size: 100px;
+  font-size: 6em;
   text-transform: uppercase;
 }
 
@@ -26,11 +26,11 @@ header {
 
 p {
   margin: 5px;
-  font-size: 20px;
+  font-size: 2em;
 }
 
 h3{
-  font-size: 35px;
+  font-size: 4em;
 }
 
 .divider {
