@@ -1,17 +1,4 @@
-@media screen and (max-width: 900px) {
-  h1 {
-    font-size: 2em;
-  }
-  p {
-    font-size: .66em;
-  }
-  h2 {
-    font-size: .5em;
-  }
-  h3 {
-    font-size: 1.5em;
-  }
-}
+
 
 .App {
   text-align: center;
@@ -53,5 +40,20 @@ h3{
   height: 2px;
   background-color: red;
   margin: 10px auto 5px auto;
+}
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 2em;
+  }
+  p {
+    font-size: .66em;
+  }
+  h2 {
+    font-size: .5em;
+  }
+  h3 {
+    font-size: 1.5em;
+  }
 }
 
